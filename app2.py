@@ -20,7 +20,7 @@ if not email_password:
 def send_mail(subject, body, filename):
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
-    sender_mail = "vipul03pandey@gmail.com"
+    sender_mail = "aiexpressmakers@gmail.com"
     receiver_mail = "22102137@mail.jiit.ac.in"
 
     # Composing email
